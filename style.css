@@ -2322,4 +2322,7 @@ input, select {
   height: 35px;
   padding: 0;
 }
+.header-eight .primary-btn{
+  width: 320px;
+}
 }
