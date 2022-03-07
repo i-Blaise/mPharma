@@ -1307,10 +1307,12 @@ padding: 4%;
   background-color: #FE0E33;
   color: var(--white);
   text-align: center;
-  padding: 5% 36% 5% 37%;
+  padding: 15px 28px;
   border: 1px solid transparent;
   white-space: nowrap;
   border-radius: 12px;
+  width: 370px;
+  height: 60px;
 }
 
 
@@ -2276,10 +2278,10 @@ input#inputTel4, select#inputAge {
 }
 }
 input, select {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 .header-about h5.form-header {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 
 /* Tony Mobile Css */
