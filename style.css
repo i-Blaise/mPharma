@@ -2259,9 +2259,32 @@ padding: 4%;
 }
 
 
+/* Tony desktop Css */
+@media (min-width: 992px){
+#m-float .col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    float: left;
+}
+#m-float-2 .col-lg-6 {
+  flex: 0 0 auto;
+  width: 50%;
+  float: left;
+}
+input#inputTel4, select#inputAge {
+  width: 94%;
+}
+}
+input, select {
+  margin-bottom: 15px;
+}
+.header-about h5.form-header {
+  margin-bottom: 15px;
+}
+
 /* Tony Mobile Css */
 @media (max-width: 600px){
-  .registration-form {
+  .registration-form, .header-about {
     margin-left: 0% !important;
     padding: 4%;
 }
