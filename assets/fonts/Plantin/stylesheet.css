@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-BoldCondensed.eot');
+    src: local('Plantin Std Bold Condensed'), local('PlantinStd-BoldCondensed'),
+        url('PlantinStd-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-BoldCondensed.woff2') format('woff2'),
+        url('PlantinStd-BoldCondensed.woff') format('woff'),
+        url('PlantinStd-BoldCondensed.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-LightItalic.eot');
+    src: local('Plantin Std Light Italic'), local('PlantinStd-LightItalic'),
+        url('PlantinStd-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-LightItalic.woff2') format('woff2'),
+        url('PlantinStd-LightItalic.woff') format('woff'),
+        url('PlantinStd-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-Light.eot');
+    src: local('Plantin Std Light'), local('PlantinStd-Light'),
+        url('PlantinStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-Light.woff2') format('woff2'),
+        url('PlantinStd-Light.woff') format('woff'),
+        url('PlantinStd-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-BoldItalic.eot');
+    src: local('Plantin Std Bold Italic'), local('PlantinStd-BoldItalic'),
+        url('PlantinStd-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-BoldItalic.woff2') format('woff2'),
+        url('PlantinStd-BoldItalic.woff') format('woff'),
+        url('PlantinStd-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-Bold.eot');
+    src: local('Plantin Std Bold'), local('PlantinStd-Bold'),
+        url('PlantinStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-Bold.woff2') format('woff2'),
+        url('PlantinStd-Bold.woff') format('woff'),
+        url('PlantinStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-Semibold.eot');
+    src: local('Plantin Std Semibold'), local('PlantinStd-Semibold'),
+        url('PlantinStd-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-Semibold.woff2') format('woff2'),
+        url('PlantinStd-Semibold.woff') format('woff'),
+        url('PlantinStd-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd.eot');
+    src: local('Plantin Std Regular'), local('PlantinStd'),
+        url('PlantinStd.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd.woff2') format('woff2'),
+        url('PlantinStd.woff') format('woff'),
+        url('PlantinStd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-SemiboldItalic.eot');
+    src: local('Plantin Std Semibold Italic'), local('PlantinStd-SemiboldItalic'),
+        url('PlantinStd-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-SemiboldItalic.woff2') format('woff2'),
+        url('PlantinStd-SemiboldItalic.woff') format('woff'),
+        url('PlantinStd-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plantin Std';
+    src: url('PlantinStd-Italic.eot');
+    src: local('Plantin Std Italic'), local('PlantinStd-Italic'),
+        url('PlantinStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PlantinStd-Italic.woff2') format('woff2'),
+        url('PlantinStd-Italic.woff') format('woff'),
+        url('PlantinStd-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+

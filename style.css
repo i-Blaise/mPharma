@@ -193,6 +193,18 @@
   font-style: italic;
 }
 
+@font-face {
+  font-family: 'Plantin Std';
+  src: url('PlantinStd-Semibold.eot');
+  src: local('Plantin Std Semibold'), local('PlantinStd-Semibold'),
+      url('PlantinStd-Semibold.eot?#iefix') format('embedded-opentype'),
+      url('PlantinStd-Semibold.woff2') format('woff2'),
+      url('PlantinStd-Semibold.woff') format('woff'),
+      url('PlantinStd-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
 
 /*===========================
   COMMON css 
@@ -1227,8 +1239,8 @@ padding: 4%;
   display: inline-block;
 }
 .header-about h3{
-  color: #EF6423;
-  font-weight: 300;
+  color: #2d2d2d;
+  font-weight: 500;
 }
 .header-about h5.form-header{
   color: black;
@@ -1236,13 +1248,17 @@ padding: 4%;
 }
 .header-about h1{
   color: #EF6423;
+  font-family: 'Plantin Std';
   font-weight: 300;
   font-size: 53px;
+  line-height: 1;
+  margin-top: 30px;
 }
 
 .header-about p.hashtags{
   color: #EF6423;
   font-weight: 800;
+  margin: 25px auto;
 }
 
 .header-about p span{
@@ -1333,7 +1349,7 @@ padding: 4%;
 .button p.button-text{
   font-size: 12px;
   padding: 5px;
-  margin-left: 6%;
+  margin-left: 0;
   white-space: nowrap;
 }
 @media (max-width: 767px) {
@@ -2321,6 +2337,10 @@ input, select {
   width: 35px;
   height: 35px;
   padding: 0;
+}
+img#teaser {
+  height: 310px;
+  width: 310px;
 }
 .header-eight .primary-btn{
   width: 320px;
